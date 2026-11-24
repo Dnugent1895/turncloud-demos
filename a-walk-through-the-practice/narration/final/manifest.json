@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23 18:25",
+ "built": "2026-11-23 22:03",
  "lines": [
   {
    "line": "welcome.1",
@@ -635,18 +635,6 @@
    "file": "narration/final/wrap-up-3-davis-1e42e235.mp3",
    "seconds": 1.72,
    "tip": "",
-   "placeholder": false
-  },
-  {
-   "line": "wrap-up.4",
-   "chapter": 13,
-   "chapterTitle": "Wrap-up",
-   "who": "autumn",
-   "spoken": "Want your team to see this too? Tap Share and send this demo to your staff.",
-   "caption": "Want your team to see this too? Tap Share and send this demo to your staff.",
-   "file": "narration/final/wrap-up-4-autumn-444b77f2.mp3",
-   "seconds": 4.68,
-   "tip": "Tap Share to send this demo to your team",
    "placeholder": false
   }
  ]
